@@ -15,3 +15,17 @@
     <br/>
   </p>
 </p>
+<table align="center">
+  <tr>
+    <th>Title</th>
+    <th>Links</th>
+  </tr>
+  <tr>
+    <td>Alfreds Futterkiste</td>
+    <td>Maria Anders</td>
+  </tr>
+  <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+  </tr>
+</table>
