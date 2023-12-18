@@ -21,10 +21,54 @@
     <th>Links</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
+    <td>Recon Methodology</td>
+    <td>https://github.com/capt-meelo/LazyRecon</td>
   </tr>
   <tr>
+    <td>Recon Methodology</td>
+    <td>https://www.reddit.com/r/InfoSecInsiders/comments/awh0fl/reconnaissance_workflow_for_pentests_and_bug/</td>
+  </tr>
+    <tr>
+    <td>Recon Methodology</td>
+    <td>https://twitter.com/rvismit/status/1086499385289039872/td>
+  </tr>
+    <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+  </tr>
+    <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+  </tr>
+    <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+  </tr>
+    <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+  </tr>
+    <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+  </tr>
+    <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+  </tr>
+    <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+  </tr>
+    <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+  </tr>
+    <tr>
+    <td>Centro comercial Moctezuma</td>
+    <td>Francisco Chang</td>
+  </tr>
+    <tr>
     <td>Centro comercial Moctezuma</td>
     <td>Francisco Chang</td>
   </tr>
