@@ -15,9 +15,6 @@
     <br/>
   </p>
 </p>
-# Resources
-
-Here I just Post the resources I used in this methodology
 
 ### Twitter
 
