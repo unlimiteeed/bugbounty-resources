@@ -32,8 +32,6 @@
 
 [https://twitter.com/ott3rly/status/1752381912474333358](https://twitter.com/ott3rly/status/1752381912474333358)
 
-[𐰚𐰼𐰇𐱅 on Twitter / X](https://twitter.com/ynsmroztas/status/1751542021834113238)
-
 [N$ 🍥 on Twitter / X](https://twitter.com/nav1n0x/status/1753501765150880018)
 
 [https://twitter.com/brutelogic/status/1754443215636189352](https://twitter.com/brutelogic/status/1754443215636189352)
@@ -55,8 +53,7 @@
 [Intigriti on Twitter / X](https://twitter.com/intigriti/status/1758441195091480617)
 
 ### Reddit
-
-[](https://www.reddit.com/r/bugbounty/)
+[bugbounty](https://www.reddit.com/r/bugbounty/)
 
 ### Slides and Images
 
